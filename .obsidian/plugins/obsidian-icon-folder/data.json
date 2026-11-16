@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAtom",
+      "LiAperture",
       "LiOrbit",
       "LiAxis3d"
     ],
@@ -31,7 +33,8 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Basic Qubit Concepts.md": "LiOrbit",
+  "Basic Qubit Concepts.md": "LiAperture",
   "Exercises Board.md": "LiAxis3d",
-  "Exercises Board Image.png": "LiAxis3d"
+  "Exercises Board Image.png": "LiAxis3d",
+  "The spin.md": "LiAtom"
 }

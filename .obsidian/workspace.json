@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8adb474f876ebd5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "The spin.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "The spin"
+            }
+          },
+          {
             "id": "f17145592e2f3526",
             "type": "leaf",
             "state": {
@@ -27,11 +39,12 @@
               "state": {
                 "file": "Basic Qubit Concepts.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Basic Qubit Concepts"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +212,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c24b45c37c28bf3",
+  "active": "a8d7757361752863",
   "lastOpenFiles": [
-    "Exercises Board.md",
-    "Exercises Board Image.png",
     "Basic Qubit Concepts.md",
+    "The spin.md",
+    "Exercises Board Image.png",
+    "Exercises Board.md",
     "Basic Qubit concepts.md",
     "Exercises.png",
     "Untitled.png",
