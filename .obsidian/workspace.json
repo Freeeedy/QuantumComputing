@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "8adb474f876ebd5e",
+            "id": "cefc2d83e0adde5b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -39,8 +39,8 @@
               "state": {
                 "file": "Basic Qubit Concepts.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Basic Qubit Concepts"
             }
           }
         ],
@@ -212,7 +212,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8adb474f876ebd5e",
+  "active": "cefc2d83e0adde5b",
   "lastOpenFiles": [
     "Basic Qubit Concepts.md",
     "The spin.md",
